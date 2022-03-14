@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /
+
+
+Sitemap: http://selivanenko.tilda.ws/sitemap.xml
+Sitemap: http://selivanenko.tilda.ws/sitemap-store.xml
+Host: selivanenko.tilda.ws
